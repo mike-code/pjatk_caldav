@@ -1,0 +1,4 @@
+cal.id
+auth.json
+*.lock
+vendor/

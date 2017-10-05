@@ -1,0 +1,9 @@
+{
+    "require": {
+        "alc/simple-caldav-client": "^0.1.6",
+        "guzzle/guzzle": "^3.9",
+        "google/apiclient": "^2.2",
+        "symfony/var-dumper": "^3.3",
+        "nesbot/carbon": "^1.22"
+    }
+}
